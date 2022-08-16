@@ -1,16 +1,11 @@
 # studently
 
-A new Flutter project.
+With student grades falling around the world, the main goal is to create a safe environment for students to learn from each other. That is why Studently was created, a mobile application for students who want to learn and students who want to earn money by tutoring other students and offering other types of school services.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+A few resources to help ou understand the project:
 
-A few resources to get you started if this is your first Flutter project:
+https://mega.nz/folder/dDshSAzT#wTAMnK2_m8sA67647cGlOg -MEGA zip file containing the documentation of the app written in the Italian language, the mock-up, powerpoint presentation and a video demonstration of how the app works.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://firebase.google.com/ - Firebase: the database and online storage used for the app
