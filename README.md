@@ -4,7 +4,7 @@ With student grades falling around the world, the main goal is to create a safe 
 
 ## Getting Started
 
-A few resources to help ou understand the project:
+A few resources to help you understand the project:
 
 https://mega.nz/folder/dDshSAzT#wTAMnK2_m8sA67647cGlOg -MEGA zip file containing the documentation of the app written in the Italian language, the mock-up, powerpoint presentation and a video demonstration of how the app works.
 
